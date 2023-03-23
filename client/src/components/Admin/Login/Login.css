@@ -1,0 +1,56 @@
+#login-bg{
+  background-image: url('../../../assets/images/helena-lopes-wEjtwvjpjxg-unsplash.jpg');
+  background-size: cover;
+  height: 100vh;
+  background-repeat: no-repeat;
+}
+#make{
+  font-size: 80px;
+  margin-left: 8%;
+  text-shadow:2px 1px 3px rgba(134, 71, 11, 0.9),
+  2px 1px 2px wheat;
+  padding-top: 15px;
+}
+#padding{
+  background-color: rgba(134, 71, 11, 0.9);
+  width: 30%;
+  border-radius: 10px;
+  margin-top: 3%;
+  margin-left: 10%;
+  padding-top: 40px;
+}
+.input{
+  margin-left: -15%;
+  margin-bottom: 2%;
+}
+#login-title{
+  margin-left: 20%;
+}
+#login{
+  margin-left: 33%;
+  border-radius: 5px;
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+#signup-link{
+  margin-left: 15%;
+  color: black;
+}
+#login-link{
+  margin-left: 37%;
+  color: black;
+}
+#logo{
+ width: 20%;
+ margin-top: -14.2%;
+ margin-left: 72.5%;
+}
+#logo-bg{
+  background-color: black;
+  height: 9.6%;
+  width: 25%;
+  float: right;
+  margin-right: 5%;
+  margin-top: 18%;
+  border-radius: 90px;
+}

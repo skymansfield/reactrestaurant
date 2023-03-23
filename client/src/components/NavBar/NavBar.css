@@ -1,0 +1,46 @@
+.navbar{
+  background-color:rgb(0, 0, 0);
+  display: flex;
+  /* align-content: space-around; */
+}
+.nav-link{
+  font-size: 20px;
+}
+#link-home, #link-about, #link-menu, #link-contact {
+  color: wheat;
+  font-size: 23px;
+  text-shadow: 2px 1px 3px maroon,
+  2px 1px 1px maroon;
+}
+#salad{
+ width: 15%;
+ margin-top: -4.5%;
+}
+@media(max-width: 414px){
+  #link-home{
+    display: none;
+  }
+}
+@media(max-width: 375px){
+  #link-home{
+    display: none;
+  }
+}
+@media(max-width: 360px){
+  #link-home{
+    display: none;
+  }
+ }
+@media(max-width: 320px){
+ #link-home{
+   display: none;
+ }
+}
+@media(max-width: 280px){
+  #link-home{
+    display: none;
+  }
+  #link-about{
+    display: none;
+  }
+}

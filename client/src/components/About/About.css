@@ -1,0 +1,95 @@
+#about-bg{
+  height: 60vh;
+  background-color: burlywood;
+  /* filter: contrast(150%); */
+  /* filter: drop-shadow(16px 10px 20px red); */
+  /* filter: grayscale(50%); */
+}
+#chef{
+  width: 35%;
+float: right;
+padding: 15px;
+margin-right: 5%;
+margin-top: 9%;
+border-radius: 20%;
+border-style: solid;
+border-color: maroon;
+}
+#about-title{
+  color: maroon;
+  text-align: center;
+padding-top: 55px;
+text-shadow: 3px 1px 3px black,
+3px 2px 3px whitesmoke;
+}
+#about-section{
+  width: 50%;
+  text-align: center;
+  margin-left: 5%;
+margin-top: 3%;
+}
+@media(max-width: 1024px){
+  #about-bg{
+    height: 42vh;
+  }
+}
+@media(max-width: 540px){
+  #about-bg{
+    height: 70vh;
+  }
+  #about-section{
+    width:90%;
+  }
+  #chef{
+    display: none;
+  }
+}
+@media(max-width: 414px){
+  #about-bg{
+    height: 70vh;
+  }
+  #about-section{
+    width:90%;
+  }
+  #chef{
+    display: none;
+  }
+}
+@media(max-width: 411px){
+  #about-bg{
+    height: 70vh;
+  }
+  #about-section{
+    width:90%;
+  }
+  #chef{
+    display: none;
+  }
+}
+@media(max-width: 375px){
+ #about-bg{
+   height: 80vh;
+ }
+}
+@media(max-width: 360px){
+  #about-bg{
+    height: 82vh;
+  }
+  #about-section{
+    width:90%;
+  }
+  #chef{
+    display: none;
+  }
+}
+@media(max-width: 320px){
+  #about-bg{
+    height: 100vh;
+  }
+  #about-section{
+    width:90%;
+  }
+  #chef{
+    display: none;
+  }
+}

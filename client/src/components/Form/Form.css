@@ -1,0 +1,48 @@
+#sub{
+  border-style: solid;
+  border-color: maroon;
+  color: wheat;
+  background-color: black;
+}
+#contact-div{
+  background-image: url('../../assets//images/hotel-wallpaper-black.png');
+}
+#contact-title{
+  text-align: center;
+  font-size: 50px;
+  color:wheat;
+  text-shadow: 2px 1px 2px maroon,
+  2px 1px 2px burlywood;
+  padding: 18px 0 15px 0;
+}
+#contact-section{
+  width: 75%;
+  margin-left: 14%;
+  color: wheat;
+  text-shadow: 2px 1px 3px maroon;
+  padding: 15px;
+  background-color: black;
+  border-style: solid;
+  border-color: maroon;
+}
+#reserve{
+  color:wheat;
+  text-shadow: 2px 1px 2px maroon,
+  2px 1px 2px burlywood;
+  margin-left: 12%;
+  font-size: 50px;
+}
+form{
+  padding: 0 10% 5% 10%;
+}
+#name, #guests, #datetime, #message{
+  font-weight: bold;
+  background-color: wheat;
+  border-style: solid;
+  border-color: maroon;
+}
+@media(max-width: 320px){
+  #contact-section{
+    text-align: center;
+  }
+}

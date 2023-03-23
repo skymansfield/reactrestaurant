@@ -1,0 +1,32 @@
+#admin-bg{
+  background-image: url('../../../assets/images/light_honeycomb.png');
+  filter: sepia(50%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+#user-name{
+  text-align: center;
+  font-size: 65px;
+  color:black;
+  text-shadow: 2px 1px 2px brown,
+  2px 1px 2px maroon;
+}
+.table{
+  border-left: blanchedalmond;
+  border-style: solid;
+}
+#num{
+  /* padding-left: 4%; */
+  border-bottom:2px solid maroon;
+}
+#tab-border{
+  border-style: solid;
+  border-color: maroon;
+}
+th{
+  font-size: 20px;
+}
+td{
+  font-size: 18px;
+}

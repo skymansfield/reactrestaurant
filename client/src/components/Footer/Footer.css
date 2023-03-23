@@ -1,0 +1,44 @@
+#footer{
+  color: maroon;
+  padding-top: 13px;
+  font-size: 30px;
+}
+.footer-bg{
+  background-color: black;
+  padding: 10px 0 5px 18%;
+
+}
+.address{
+  color: bisque;
+  margin-left: 4%;
+}
+#twitter{
+  width: 100px;
+  height: 90px;
+  border-radius: 15px;
+  padding: 5px;
+  margin-left: 50%;
+  margin-top: -12%;
+  border-style: solid;
+  border-color: maroon;
+}
+#instagram{
+  width: 100px;
+  height: 90px;
+  padding: 5px;
+  border-radius: 15px;
+  margin-top: -12%;
+  border-style: solid;
+  border-color: maroon;
+  margin-left: 2%;
+}
+#facebook{
+  width: 100px;
+  height: 90px;
+  padding: 5px;
+  border-radius: 15px;
+  margin-top: -12%;
+  border-style: solid;
+  border-color: maroon;
+  margin-left: 2%;
+}

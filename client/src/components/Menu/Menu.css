@@ -1,0 +1,43 @@
+b, span{
+  color: wheat;
+  text-shadow: 2px 1px 3px maroon;
+}
+p{
+  color: wheat;
+  text-shadow: 2px 1px 3px maroon;
+  font-size: 25px;
+}
+.can{
+  border-style: solid;
+  border-color: maroon;
+  width: 75%;
+  border-radius: 8px;
+  background-color: black;
+  border-width: 2px;
+  margin-top: 2%;
+}
+#bg-color{
+  padding: 90px 0 90px 0;
+  background-image: url('../../assets//images/hotel-wallpaper-black.png');
+}
+.hr{
+  color: red;
+}
+#links{
+  color: wheat;
+  text-shadow: 1px 1px 3px maroon;
+}
+
+.link-bg{
+  background-color: black;
+  border-style: solid;
+  border-color: maroon;
+  border-radius: 7px;
+  border-width: 1px;
+}
+.menu{
+  padding-top: 30px;
+}
+#nav-border{
+  border-bottom: 1px solid maroon;
+}
